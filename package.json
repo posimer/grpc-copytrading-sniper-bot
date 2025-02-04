@@ -1,15 +1,14 @@
 {
   "name": "solana-trading-cli",
   "version": "1.0.0",
-  "description": "Best development tool for Algo Trading on Solana",
+  "description": "Solana trading tools by Hexnome",
   "main": "help.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "vincentso",
-  "url": "https://github.com/outsmartchad/solana-trading-cli/issues",
-  "homepage": "https://github.com/outsmartchad/solana-trading-cli",
+  "author": "hexnome",
+  "url": "https://github.com/hexnome/grpc-copy-trading-sniper-bot.git",
   "license": "ISC",
   "dependencies": {
     "@bloxroute/solana-trader-client-ts": "^2.1.6",
