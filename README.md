@@ -38,4 +38,10 @@ Leverage our cutting-edge, open-source trading bots:
 
 ### Extensibility
 Our comprehensive toolkit provides everything you need to create your own custom trading bot, tailored to your unique strategies and requirements.
-
+# Transactions
+## Meteora
+https://solscan.io/tx/gFpAL2a5St91Tmdpbin2fjVBxsxmV4aA8tFaJUcFzKxvMvXbKE6N1R1MJ2daPL2XwzNshW6qc38Rf8mRgsQssHX
+## Raydium
+Detect: https://solscan.io/tx/5o7ajnZ9CRf7FBYEvydu8vapJJDWtKCvRFiTUBmbeu2FmmDhAQQy3c9YFFhpTucr2SZcrf2aUsDanEVjYgwN9kBc
+Buy: https://solscan.io/tx/3vgim3MwJsdtahXqfW2DrzTAWpVQ8EUTed2cjzHuqxSfUpfp72mgzZhiVosWaCUHdqJTDHpQaYh5xN7rkHGmzqWv
+https://dexscreener.com/solana/A1zZXCq2DmqwVD4fLDzmgQ3ceY6LQnMBVokejqnHpump
